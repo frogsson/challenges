@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 
-# {"word": {"probability_word": 100%}}
+# {"word": {"probability_word": 100}}
 with open('generic.txt', 'r') as f:
     text = f.read()
 
