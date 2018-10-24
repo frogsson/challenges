@@ -1,1 +1,10 @@
-The minute insects included in the it the it the it, which haunt blossoms and leaves, are fairly well known to gardeners by the name Thrips, a generic term used by Linnaeus for the four species of the group which he had examined and relegated to the order Hemiptera.
+Generic sentences constitute a prevalent linguistic phenomenon, and much of our knowledge about the world is expressed using these constructions. In this dissertation we provide a theory of meaning of generics and the inferences which they give rise to.
+
+We propose that a generic sentence is not evaluated in isolation, but with respect to a set of alternatives. For example, 'Mammals bear live young' is evaluated with respect to alternative forms of procreation and, consequently, is only about mammals which procreate in some form or another (i.e. healthy, adult, fertile females). We extend this alternative-based account to handle the puzzles of sentences like 'The Frenchman eats horsemeat' in a uniform way.
+
+We explore the formal properties of alternatives and provide an account of how they are determined compositionally by focus and presupposition. We extend our account of generics to handle frequency adverbs and habituals in a uniform manner. We determine that topic, rather than focus, determines the logical form of these constructions.
+
+It has widely been acknowledged that generics exhibit a lawlike character. We account for this fact by regarding generics as expressions of probability judgments, which, in turn, are interpreted as statements of relative frequencies in the limit. While this view is problematic as a general account of probability, its difficulties provide constraints on acceptable generic sentences, thus accounting for a number of puzzling properties of these sentences. Different constraints are predicted for generics and frequency adverbs, thus accounting for a number of semantic differences between the two phenomena.
+
+Generic sentences are often used informally to characterize rules of default reasoning. We propose to take this informal use seriously, and define a default rule to be adequate just in case the corresponding generic sentence is true, and prove a number of desirable properties of adequate default rules.
+
